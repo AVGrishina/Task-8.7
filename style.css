@@ -1,0 +1,41 @@
+.game-card {
+    height: 100vh;
+    font-family: Optima, sans-serif;
+}
+
+
+.card-header {
+    background-color:rgb(247, 184, 218) ;
+}
+
+.card-body {
+    background-color:rgb(190, 191, 177) ;
+}
+
+.btn-outline-primary {
+    background-color:rgb(99, 154, 154) ;
+}
+
+div .card-body {
+    border-width: 3px;
+    border-style: double;
+    border-color: black;
+  }
+
+
+div .text-center {
+    border-width: 3px;
+    border-style:groove ;
+    border-color: black;
+    background-color:rgb(247, 184, 218) ;
+  }
+div .btn {
+    border-width: 2px;
+    border-style:double ;
+    border-color: black;
+  }
+
+
+ .btn-link {
+    background-color:rgb(162, 184, 184) ;
+}
